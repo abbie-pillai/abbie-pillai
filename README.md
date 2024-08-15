@@ -34,4 +34,4 @@ Advanced statistical frameworks and machine learning models for A/B testing
 - Tableau: [tableau.com/abbie-pillai](https://public.tableau.com/app/profile/abhirami.pillai/vizzes)
 
 ### ⚡ Fun fact
-I can speak 4 languages 
+I can speak 4 languages, write poetry and cook somewhat my mom's dishes.
