@@ -30,7 +30,7 @@ Expanding my skills in decision science and experimentation techniques
 Advanced statistical frameworks and machine learning models for A/B testing
 
 ### 📫 How to reach me
-- LinkedIn: [linkedin.com/abpillai](https://linkedin.com/abpillai)
+- LinkedIn: [linkedin.com/abpillai](https://www.linkedin.com/in/abpillai/)
 - Tableau: [tableau.com/abbie-pillai](https://public.tableau.com/app/profile/abhirami.pillai/vizzes)
 
 ### ⚡ Fun fact
