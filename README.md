@@ -5,7 +5,7 @@
 - BS in Computer Science, University of Mumbai (2016)
 
 ### 💼 Professional Experience
-- Decision Science Experimentation Intern at Peacock, NBCUniversal (https://github.com/abbie-pillai/AutomationInferenceEngine/blob/main/PeacockAutomationInference.pdf)
+- [Decision Science Experimentation Intern at Peacock, NBCUniversal](https://github.com/abbie-pillai/AutomationInferenceEngine/blob/main/PeacockAutomationInference.pdf)
 - Senior Product Analyst at BenefitHub
 - Business Data Analyst at IndieFolio Network
 - Business Analyst at Startup-Buzz Media
@@ -19,8 +19,8 @@
 - **Big Data:** Hadoop, Spark, Kafka, Apache Airflow, Google BigQuery
 
 ### 🚀 Projects
-- Machine Learning Models for Fatality Analysis Reporting System
-- AT&T's 5G technology teleoperations in the automotive industry
+- [Machine Learning Models for Fatality Analysis Reporting System](https://github.com/abbie-pillai/Machine-Learning-Models-for-FARS)
+- [AT&T's 5G technology teleoperations in the automotive industry](https://github.com/abbie-pillai/AT-T-s-5G-technology-teleoperations)
 
 ### 🔭 I'm currently working on
 Expanding my skills in decision science and experimentation techniques
