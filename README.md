@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Abhirami Pillai
 
 ### 🎓 Education
-- MS in Business Analytics, The University of Texas at Dallas (Expected May 2024)
+- MS in Business Analytics, The University of Texas at Dallas (May 2024)
+- PG Diploma in Computer Science, SNDT University (May 2021)
 - BS in Computer Science, University of Mumbai (2016)
 
 ### 💼 Professional Experience
