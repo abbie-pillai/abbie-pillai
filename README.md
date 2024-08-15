@@ -29,9 +29,8 @@ Expanding my skills in decision science and experimentation techniques
 Advanced statistical frameworks and machine learning models for A/B testing
 
 ### 📫 How to reach me
-- Email: abhiramipillaift@gmail.com
 - LinkedIn: [linkedin.com/abpillai](https://linkedin.com/abpillai)
 - Tableau: [tableau.com/abbie-pillai](https://tableau.com/abbie-pillai)
 
 ### ⚡ Fun fact
-I've contributed to a 78% revenue increase in digital campaigns using data-driven strategies!
+I can speak 4 languages 
