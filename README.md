@@ -25,6 +25,7 @@
 
 ### 🔭 I'm currently working on
 - Expanding my skills in decision science and experimentation techniques
+- Sharing my experiences and learnings on [substack](https://abipillai.substack.com/)
 
 ### 🌱 I'm currently learning
 - Advanced statistical frameworks and machine learning models for A/B testing
