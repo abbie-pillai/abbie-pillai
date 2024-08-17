@@ -25,7 +25,7 @@
 
 ### 🔭 I'm currently working on
 - Expanding my skills in decision science and experimentation techniques
-- 
+
 ### 🌱 I'm currently learning
 - Advanced statistical frameworks and machine learning models for A/B testing
 - Trying to solve 5 x 5 Rubik's Cube
