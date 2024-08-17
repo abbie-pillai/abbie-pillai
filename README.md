@@ -24,8 +24,8 @@
 - [AT&T's 5G technology teleoperations in the automotive industry](https://github.com/abbie-pillai/AT-T-s-5G-technology-teleoperations)
 
 ### 🔭 I'm currently working on
-Expanding my skills in decision science and experimentation techniques
-Trying to solve 5 x 5 Rubik's Cube
+- Expanding my skills in decision science and experimentation techniques
+- Trying to solve 5 x 5 Rubik's Cube
 
 ### 🌱 I'm currently learning
 Advanced statistical frameworks and machine learning models for A/B testing
