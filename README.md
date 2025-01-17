@@ -3,7 +3,7 @@
 ### 🎓 Education
 - MS in Business Analytics, The University of Texas at Dallas (May 2024)
 - PG Diploma in Computer Science, SNDT University (May 2021)
-- BS in Computer Science, University of Mumbai (2016)
+- BS in Computer Science, University of Mumbai ( May 2016)
 
 ### 💼 Professional Experience
 - [Decision Science Experimentation Intern at Peacock, NBCUniversal](https://github.com/abbie-pillai/AutomationInferenceEngine/blob/main/PeacockAutomationInference.pdf)
