@@ -6,7 +6,7 @@
 - BS in Computer Science, University of Mumbai ( May 2016)
 
 ### 💼 Professional Experience
-- [Decision Science Experimentation Intern at Peacock, NBCUniversal](https://github.com/abbie-pillai/AutomationInferenceEngine/blob/main/PeacockAutomationInference.pdf)
+- [Decision Science Experimentation Intern at Peacock, NBCUniversal](https://github.com/abbie-pillai/PeacockInternship/blob/main/PeacockInternship.pdf)
 - Senior Product Analyst at BenefitHub
 - Business Data Analyst at IndieFolio Network
 - Business Analyst at Startup-Buzz Media
