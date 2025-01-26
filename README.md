@@ -11,14 +11,6 @@
 - Business Data Analyst at IndieFolio Network
 - Business Analyst at Startup-Buzz Media
 
-### 🛠 Skills
-- **Languages:** Python, C++, R, Java, SQL, HTML, CSS, JavaScript
-- **Data Science:** Predictive Modeling, Statistical Analysis, Data Mining, A/B Testing, Experimentation
-- **Machine Learning:** Regression Analysis, Time Series Analysis, Bayesian Models, Clustering Algorithms
-- **Tools:** Confluence, Salesforce, Tableau, Docker, Looker, Jupyter, AWS, Optimizely, Jira, Git, HubSpot
-- **Libraries:** Pandas, Numpy, Scikit-learn, Tensorflow, Pytorch, Matplotlib, Seaborn, Statsmodels, Shiny
-- **Big Data:** Hadoop, Spark, Kafka, Apache Airflow, Google BigQuery
-
 ### 🚀 Projects
 - [Machine Learning Models for Fatality Analysis Reporting System](https://github.com/abbie-pillai/Machine-Learning-Models-for-FARS)
 - [AT&T's 5G technology teleoperations in the automotive industry](https://github.com/abbie-pillai/AT-T-s-5G-technology-teleoperations)
