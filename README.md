@@ -44,9 +44,9 @@
 
 ## ⚡ **Fun Facts About Me**
 
-- 🗣️ I can speak **4 languages**.
-- ✍️ I write **poetry** in my free time.
-- 🍳 I can cook **somewhat like my mom's dishes** (still a work in progress!).
+  🗣️ I can speak **4 languages**.
+  ✍️ I write **poetry** in my free time.
+  🍳 I can cook **somewhat like my mom's dishes** (still a work in progress!).
 
 ### **Let's Connect!**  
 Feel free to reach out if you'd like to collaborate or just chat about data, tech, or poetry! 😄
