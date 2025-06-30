@@ -12,5 +12,4 @@ I read, write, and cook when I’m not working. I drink too much coffee and occa
 
 I write about what I’m learning.
 Thanks for stopping by! ❤️
-
 ---
