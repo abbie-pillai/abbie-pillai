@@ -9,7 +9,4 @@ During grad school, I interned at Peacock as a Decision Scientist. I built dashb
 The startup approach of building quickly and learning from failures has shaped how I work. I apply it to data problems, cooking, and most decisions.
 
 I read, write, and cook when I’m not working. I drink too much coffee and occasionally write poetry.
-
-I write about what I’m learning.
-Thanks for stopping by! ❤️
 ---
